@@ -1,2 +1,2 @@
 # projeto-palavra
-Local onde se descreve o repositório criado.
+Repositório criado em formação com PECs Tecnologia, acompanhamento com Grasiela Cabrio.
